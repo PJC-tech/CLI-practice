@@ -1,1 +1,2 @@
 # CLI-practice
+git init
